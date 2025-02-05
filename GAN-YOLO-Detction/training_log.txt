@@ -1,0 +1,25 @@
+Number of parameters in the generator: 3448576
+Number of parameters in the discriminator: 11020800
+Using device: cuda
+[Epoch 0/250] [Batch 0/239] [D loss: 0.7000560760498047] [G loss: 0.6329663991928101]
+Saved new best generator model with average G loss: 1.9184811791116723
+Saved new best discriminator model with average D loss: 0.26484613251486583
+[Epoch 1/250] [Batch 0/239] [D loss: 0.08444580435752869] [G loss: 2.6104297637939453]
+Using device: cuda
+Using device: cuda
+[Epoch 0/500] [Batch 0/477] [D loss: 0.694145917892456] [G loss: 0.9450061917304993]
+[Epoch 0/500] [Batch 300/477] [D loss: 0.12946969270706177] [G loss: 8.037460327148438]
+Saved new best generator model with average G loss: 6.39315442281699
+Saved new best discriminator model with average D loss: 0.22390487173130927
+[Epoch 1/500] [Batch 0/477] [D loss: 0.12535351514816284] [G loss: 9.14147663116455]
+[Epoch 1/500] [Batch 300/477] [D loss: 0.10736443102359772] [G loss: 9.640361785888672]
+Number of parameters in the generator: 277456432
+Number of parameters in the discriminator: 138372097
+Number of parameters in the generator: 277456432
+Number of parameters in the discriminator: 138372097
+Using device: cuda
+[Epoch 0/250] [Batch 0/120] [D loss: 0.6945751905441284] [G loss: 0.724392294883728]
+Saved new best generator model with average G loss: 0.780966609257545
+Saved new best discriminator model with average D loss: 0.5829170236364007
+Saved models at epoch 0
+[Epoch 1/250] [Batch 0/120] [D loss: 0.32703226804733276] [G loss: 0.7447280883789062]
