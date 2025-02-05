@@ -2,3 +2,9 @@ GAN-YOLO-Detction/train
 GAN-YOLO-Detction/train.zip
 GAN-YOLO-Detction/saved_models
 GAN-YOLO-Detction/Data
+Faster_RCNN/frcnn
+GAN-YOLO-Detction/gan_data
+GAN-YOLO-Detction/images
+Faster_RCNN/fasterrcnn_resnet50_epoch_2.pth
+Faster_RCNN/fasterrcnn_resnet50_epoch_4.pth
+Faster_RCNN/fasterrcnn_resnet50_final.pth
